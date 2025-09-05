@@ -27,7 +27,7 @@ const Footer = () => {
               <h3>Shlok Katiyar</h3>
               <a href="https://shlok612.github.io/myportfolio/" target="_blank">Portfolio</a><br />
               <a href="https://github.com/shlok612" target="_blank">Github</a><br />
-              <a href="https://www.linkedin.com/in/shlok-katiyar-4847bb362/" target="_blank">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a>
             </div>
           </div>
         </div>
@@ -42,3 +42,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
